@@ -6,3 +6,4 @@
 4. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
 5. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 6. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+7. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
