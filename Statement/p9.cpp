@@ -39,7 +39,7 @@ int main() {
 
     // Cheking and printing
     if(a >= b) cout << "Yes" << endl;
-    else cout << "N0" << endl;
-    
+    else cout << "No" << endl;
+
     return 0;
 }
