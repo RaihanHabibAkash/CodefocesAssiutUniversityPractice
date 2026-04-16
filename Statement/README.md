@@ -21,3 +21,4 @@
 22. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
 23. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 24. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
+25. https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
