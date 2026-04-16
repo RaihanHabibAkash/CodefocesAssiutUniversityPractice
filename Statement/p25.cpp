@@ -48,14 +48,12 @@ using namespace std;
 int main() {
     // Taking input and getting the Multiplication.
     int a, b, c, d; cin >> a >> b >> c >> d;
-    long long multiplication = (long long)a * b * c * d;
+    long long multiplication = (((long long)a % 100) * (b % 100)) % 100;
+    multiplication = (multiplication * (c % 100)) % 100;
+    multiplication = (multiplication * (d % 100)) % 100;
 
-    // Getting the 2 digits
-    int y = multiplication % 10;
-    multiplication /= 10;
-    int x = multiplication % 10;
-
-    cout << x << y << endl;
+    if(multiplication < 10) cout << 0 << multiplication << endl;
+    else cout << multiplication << endl;
 
     return 0;
 }
