@@ -58,10 +58,10 @@ Third Example :
 using namespace std;
 
 int main() {
-    int a, c; long long b, d;
+    double a, c, b, d;
     cin >> a >> b >> c >> d;
 
-    if(((long long)a * log(b)) > ((long long)c * log(d))) cout << "YES" << endl;
+    if((b * log(a)) > (d * log(c))) cout << "YES" << endl;
     else cout << "NO" << endl;
 
     return 0;
