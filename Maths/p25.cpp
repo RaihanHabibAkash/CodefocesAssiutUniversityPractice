@@ -46,14 +46,18 @@ the Multiplication of 4 numbers is 3 * 9 * 9 * 9 = 2187 so the answer will be th
 using namespace std;
 
 int main() {
-    // Taking input and getting the Multiplication.
+    // Taking input
     int a, b, c, d; cin >> a >> b >> c >> d;
-    long long multiplication = (((long long)a % 100) * (b % 100)) % 100;
-    multiplication = (multiplication * (c % 100)) % 100;
-    multiplication = (multiplication * (d % 100)) % 100;
 
-    if(multiplication < 10) cout << 0 << multiplication << endl;
-    else cout << multiplication << endl;
+    // Getting the last 2 digits
+    long long lastTwoDigits = (long long)a % 100;
+    lastTwoDigits = (lastTwoDigits * (b % 100)) % 100;
+    lastTwoDigits = (lastTwoDigits * (c % 100)) % 100;
+    lastTwoDigits = (lastTwoDigits * (d % 100)) % 100;
+
+    // Printing
+    if(lastTwoDigits < 10) cout << 0 << lastTwoDigits << endl;
+    else cout << lastTwoDigits << endl;
 
     return 0;
 }

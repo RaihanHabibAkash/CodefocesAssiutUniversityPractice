@@ -58,11 +58,18 @@ Third Example :
 using namespace std;
 
 int main() {
-    double a, c, b, d;
-    cin >> a >> b >> c >> d;
+    // Taking input
+    long long a, b, c, d; cin >> a >> b >> c >> d;
 
-    if((b * log(a)) > (d * log(c))) cout << "YES" << endl;
+    // Checking and printing
+    if(b * log(a) > d * log(c)) cout << "YES" << endl;
     else cout << "NO" << endl;
 
     return 0;
 }
+
+/*
+a^c = b^d
+log a^c = log b^d
+c log a = d log b
+*/ 
