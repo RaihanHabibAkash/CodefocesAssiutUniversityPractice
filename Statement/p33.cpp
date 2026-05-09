@@ -44,7 +44,7 @@ int main() {
     int two = num % 10;
 
     // Printing
-    if(one == 0 || two == 0) cout << "NO" << endl;
+    if(one == 0 || two == 0) cout << "YES" << endl;
     else if(one % two == 0 || two % one == 0) cout << "YES" << endl;
     else cout << "NO" << endl;
 
