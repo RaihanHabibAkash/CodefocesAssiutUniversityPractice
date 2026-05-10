@@ -1,4 +1,4 @@
-// Problem: Even, Odd, Positive and Negative
+// Problem: Fixed Password
 // Platform: Codeforces
 // Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
 /*
