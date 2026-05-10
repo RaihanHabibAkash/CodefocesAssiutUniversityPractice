@@ -34,5 +34,6 @@
 32. https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H
 33. https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I
 34. https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G
+35. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
 
 "# Others"
