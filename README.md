@@ -38,5 +38,6 @@
 36. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
 37. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
 38. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
+39. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
 "# Others"
