@@ -40,7 +40,7 @@ using namespace std;
 
 long long factorial(int num) {
     // Base case
-    if(num == 1) return 1;
+    if(num == 0) return 1;
 
     // Main case, recurtion
     return num * factorial(num - 1);
