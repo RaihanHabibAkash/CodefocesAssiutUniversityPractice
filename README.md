@@ -41,5 +41,6 @@
 39. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 40. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G
 41. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
+42. https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
 
 "# Others"
