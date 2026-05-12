@@ -67,8 +67,13 @@ int main() {
     }
 
     // Printing
-    if(v[0] != 0) cout << v[0];
-    for(int i = 1; i < len; i++) cout << v[i];
+    bool notZero = false;
+    for(int i = 0; i < len; i++){
+        // One digit will make it true
+        if(v[i] != 0) notZero = true;
+        // Than pring all of the value
+        if(notZero) cout << v[i];
+    }
     cout << endl;
     // Checking if palindrome
     cout << (checkPal(v, 0,len-1) ? "YES" : "NO") << endl;
