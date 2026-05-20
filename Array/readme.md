@@ -33,3 +33,7 @@
 [Problem 66](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
 
 [Problem 67](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+
+[Problem 68](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D)
+
+[Problem 69](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G)
