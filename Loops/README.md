@@ -23,3 +23,5 @@
 [Problem 45](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)
 
 [Problem 47](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
+
+[Problem 48](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)
