@@ -39,3 +39,5 @@
 [Solution 89](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)
 
 [Solution 103](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
+
+[Solution 104](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)

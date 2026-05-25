@@ -205,3 +205,5 @@
 [Solution 102](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/L)
 
 [Solution 103](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
+
+[Solution 104](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)
