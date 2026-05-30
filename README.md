@@ -211,3 +211,5 @@
 [Solution 105](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)
 
 [Solution 106](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
+
+[Solution 107](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T)
