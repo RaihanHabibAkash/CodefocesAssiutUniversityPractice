@@ -21,3 +21,5 @@
 [Solution 100](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P)
 
 [Solution 101](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)
+
+[Solution 110](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)
